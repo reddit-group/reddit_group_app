@@ -10,3 +10,7 @@ Note: Make sure you already have Node.js installed. In a command prompt, type in
 5. If all is working, you'll see a 'Hi there!!' message displayed on browser window
 
 ## Don't hesitate to ask question! :)
+
+
+## Helpful Links
+[To get a better understanding with working with Git and GitHub on a team](https://gist.github.com/andrewtkemp1/fa8f28e867e17559b931c3f6de9a4b9e)
