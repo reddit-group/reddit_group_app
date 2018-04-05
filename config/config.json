@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "PORT": "3000",
+        "MONGODB_URI": "mongodb://localhost:27017/reddit-lp",
+        "SESSION_SECRET": "this1is2a3placeholder4secret5"
+    },
+    "production": {
+        "PORT": "3000",
+        "MONGODB_URI": "mongodb://localhost:27017/reddit-lp-prod",
+        "SESSION_SECRET": "this1is2a3placeholder4secret5"
+    }
+}
