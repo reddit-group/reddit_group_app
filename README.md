@@ -4,6 +4,7 @@
 
 Prerequisites:
 Make sure you have the following installed first:
+* Mongo DB. [Install and download instructions](https://docs.mongodb.com/manual/installation/?_ga=2.191409698.908443830.1522955584-1974239888.1522955584). Then double check that Mongo is running.
 * Node.js. In a command prompt, type in `node -v` to verify. It should return a version number.
 * [nodemon](https://github.com/remy/nodemon) Type in `nodemon -v` to verify. If not, install by typing `npm install -g nodemon`
 
