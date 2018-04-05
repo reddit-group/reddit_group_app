@@ -2,13 +2,17 @@
 ## Getting Started
 ### The steps below will allow you to see what the app currently looks like
 
-Note: Make sure you already have Node.js installed. In a command prompt, type in `node -v` to verify. It should return a version number.
+Prerequisites:
+Make sure you have the following installed first:
+* Node.js. In a command prompt, type in `node -v` to verify. It should return a version number.
+* [nodemon](https://github.com/remy/nodemon) Type in `nodemon -v` to verify. If not, install by typing `npm install -g nodemon`
 
 1. `git clone https://github.com/reddit-group/reddit_group_app.git`
 2. Verify you are in the root project directory
-3. In the command line type in `node index.js`. Terminal window should say: "APP IS RUNNING ON..."
-4. In a browser's window, navigate to http://localhost:3000/
-5. If all is working, you'll see a 'Hi there!!' message displayed on browser window
+3.`npm install` to install required dependencies
+4. `nodemon`. Wait a bit. Terminal window should say: "APP IS RUNNING ON..."
+5. In a browser's window, navigate to http://localhost:3000/
+6. If all is working, you'll see a 'Hi there!!' message displayed on browser window
 
 ## Don't hesitate to ask question! :)
 
