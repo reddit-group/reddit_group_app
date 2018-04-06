@@ -1,5 +1,6 @@
 # OS X
 .DS_Store*
+.tern_port*
 Icon?
 ._*
 
