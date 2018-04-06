@@ -1,6 +1,5 @@
 # OS X
 .DS_Store*
-.tern_port*
 Icon?
 ._*
 
@@ -29,3 +28,4 @@ benchmarks/graphs
 
 # Steve's VSCode
 /.vscode
+.tern_port*
